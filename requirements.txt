@@ -1,0 +1,13 @@
+PyQt5>=5.15.10
+google-genai>=1.0.0
+python-dotenv>=1.0.1
+SpeechRecognition>=3.10.4
+gTTS>=2.5.1
+pygame>=2.6.0
+pyautogui>=0.9.54
+pywhatkit>=5.4
+pycaw>=20240210
+comtypes>=1.4.1
+screen-brightness-control>=0.23.0
+psutil>=6.0.0
+PyAudio>=0.2.14
